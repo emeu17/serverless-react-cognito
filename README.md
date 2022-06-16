@@ -1,4 +1,4 @@
-# Thesis React application
+# Thesis React application with Cognito
 
 This project was created in spring 2022. The purpose is to connect to
 three different serverless backend API:s and test their functionality. Would they
